@@ -1,0 +1,15 @@
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\bin\Debug\net6.0\LabUygulamalar.exe
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\bin\Debug\net6.0\LabUygulamalar.deps.json
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\bin\Debug\net6.0\LabUygulamalar.runtimeconfig.json
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\bin\Debug\net6.0\LabUygulamalar.dll
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\bin\Debug\net6.0\LabUygulamalar.pdb
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.csproj.AssemblyReference.cache
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.AssemblyInfoInputs.cache
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.AssemblyInfo.cs
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.dll
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\refint\LabUygulamalar.dll
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.pdb
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\LabUygulamalar.genruntimeconfig.cache
+C:\Users\13ahm\source\repos\LabUygulamalar\LabUygulamalar\obj\Debug\net6.0\ref\LabUygulamalar.dll
